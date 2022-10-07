@@ -30,17 +30,28 @@ h1 {
 .bal {
     float: left;
     text-align: center;
-    margin-right: 150px;
-    margin-top: 20px;
     background-color: #5b9cea;
-    height: 450px;
-    width: 450px;
+  
 }
 
-h2 {
+.jobb {
+    text-align: center;
+    background-color: #5b9cea;
+    margin-left: 500px;
+}
+
+.h21 {
     text-align: left;
-    padding-left: 27px;
-    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+  }
+
+.h22 {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 20px;
 }
 
 .baltabla {
@@ -48,8 +59,20 @@ h2 {
     border-style: solid;
     border-collapse: collapse;
     background-color: #B0D1F1;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 450px;
+    margin-top: -4px;
+}
+
+.jobbtabla {
+    border: 1px;
+    border-style: solid;
+    border-collapse: collapse;
+    background-color: #B0D1F1;
+    margin-right: auto;
+    margin-left: auto;
+    width: 450px;
 }
 
 th {
@@ -79,14 +102,4 @@ td {
 .forras {
     text-align: left;
     padding-left: 27px;
-}
-
-
-
-
-.jobb {
-    text-align: center;
-    background-color: #5b9cea;
-    margin-left: 500px;
-    margin-top: 20px;
 }
