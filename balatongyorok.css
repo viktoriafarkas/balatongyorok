@@ -7,3 +7,18 @@ body {
     height: 1000px;
     margin: auto;
 }
+
+.header {
+    background-image: url(./panorama.jpg);
+    background-repeat: no-repeat;
+    min-width: 650px;
+    max-width: 1000px;
+    background-size: cover;
+    height: 150px;
+}
+
+h1 {
+    color: rgb(51, 44, 44);
+    padding-top: 35px;
+    padding-left: 20px;
+}
