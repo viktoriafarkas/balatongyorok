@@ -22,14 +22,13 @@ header {
 }
 
 .cimer {
-    background-image: url(./cimer.jpg);
+    background-image: url(./cimer2.png);
     width: 120px;
     height:150px;
     background-size:contain;
     background-repeat: no-repeat;
     margin-left: 820px;
     margin-top: -48px;
-    mix-blend-mode: multiply;
 }
 
 h1 {
