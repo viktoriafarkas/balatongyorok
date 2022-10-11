@@ -10,3 +10,4 @@
 # 9. pont
 # 10. pont
 # javítás
+# végleges

@@ -29,6 +29,7 @@ header {
     background-repeat: no-repeat;
     margin-left: 820px;
     margin-top: -48px;
+    mix-blend-mode: multiply;
 }
 
 h1 {
