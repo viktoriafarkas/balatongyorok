@@ -1,5 +1,7 @@
 body {
     background-image: url(./back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .torzs {
@@ -8,7 +10,7 @@ body {
     margin: auto;
 }
 
-.header {
+header {
     background-image: url(./panorama.jpg);
     background-repeat: no-repeat;
     min-width: 650px;
@@ -31,27 +33,32 @@ h1 {
     float: left;
     text-align: center;
     background-color: #5b9cea;
-  
+    padding-bottom: 1px;
 }
 
 .jobb {
     text-align: center;
     background-color: #5b9cea;
-    margin-left: 500px;
+    margin-left: 510px;
+    padding-bottom: 2px;
+}
+
+h2 {
+    text-align: left;
+    padding-top: 45px;
+    padding-bottom: 20px;
 }
 
 .h21 {
-    text-align: left;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     padding-left: 20px;
   }
 
 .h22 {
-    text-align: left;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding-left: 20px;
+    padding-left: 25px;
 }
 
 .baltabla {
