@@ -1,6 +1,6 @@
 body {
     background-image: url(./back.jpg);
-    background-repeat: no-repeat;
+    background-repeat:repeat-y;
     background-size: cover;
 }
 
@@ -16,12 +16,24 @@ header {
     min-width: 650px;
     max-width: 1000px;
     background-size: cover;
-    height: 150px;
+    background-position-x: right;
+    background-position-y: center;
+    height: 170px;
+}
+
+.cimer {
+    background-image: url(./cimer.jpg);
+    width: 120px;
+    height:150px;
+    background-size:contain;
+    background-repeat: no-repeat;
+    margin-left: 820px;
+    margin-top: -48px;
 }
 
 h1 {
     color: rgb(51, 44, 44);
-    padding-top: 35px;
+    padding-top: 20px;
     padding-left: 20px;
 }
 
